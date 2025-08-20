@@ -1,12 +1,60 @@
-# React + Vite
+### Basic Sign-Up Form (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple Sign-Up form built with React and styled using CSS.
+This project demonstrates the basics of creating forms, handling input fields, and applying styles in a React application.
 
-Currently, two official plugins are available:
+# Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+User-friendly Sign-Up form
 
-## Expanding the ESLint configuration
+Input fields for:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Name
+
+Email
+
+Password
+
+Form validation (basic)
+
+Styled using App.css
+
+Built with Vite + React
+
+# Tech Stack
+
+React (via Vite)
+
+JavaScript (ES6+)
+
+CSS3
+
+
+
+# Installation & Setup
+
+Clone the repository:
+
+git clone https://github.com/IamPial/basic-signup.git
+cd basic-signup
+
+
+Install dependencies:
+
+npm install
+
+
+Run the development server:
+
+npm run dev
+
+
+Open in browser:
+
+http://localhost:5173
+
+
+# License
+
+This project is open-source and available under the MIT License
+.
