@@ -1,9 +1,9 @@
-### Basic Sign-Up Form (React)
+# Basic Sign-Up Form (React)
 
 A simple Sign-Up form built with React and styled using CSS.
 This project demonstrates the basics of creating forms, handling input fields, and applying styles in a React application.
 
-# Features
+### Features
 
 User-friendly Sign-Up form
 
@@ -21,7 +21,7 @@ Styled using App.css
 
 Built with Vite + React
 
-# Tech Stack
+### Tech Stack
 
 React (via Vite)
 
@@ -31,7 +31,7 @@ CSS3
 
 
 
-# Installation & Setup
+### Installation & Setup
 
 Clone the repository:
 
@@ -54,7 +54,7 @@ Open in browser:
 http://localhost:5173
 
 
-# License
+### License
 
 This project is open-source and available under the MIT License
 .
